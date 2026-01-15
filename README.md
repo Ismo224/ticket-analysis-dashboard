@@ -6,7 +6,8 @@ Google Sheets dashboard analysing IT support tickets (mock data)
 A Google Sheets dashboard analysing 6 months of mock IT support ticket data to identify common issues, peak support times, and resolution performance.
 
 ## Dashboard Preview
-![Dashboard Screenshot](dashboard-screenshot.png)
+<img width="414" height="388" alt="dashboard" src="https://github.com/user-attachments/assets/35e1c213-6d22-421c-bab6-6a0842b45793" />
+
 
 ## PDF Version
 Download the dashboard here: IT_Support_Ticket_Dashboard.pdf
