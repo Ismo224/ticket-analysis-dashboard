@@ -17,8 +17,7 @@ Download the dashboard here: IT_Support_Ticket_Dashboard.pdf
 - Peak support demand occurs mid-week and around 4 PM
 - Admin and English departments generate the most tickets
 - Some issue types consistently take longer to resolve
-
-Ticket volume fluctuates month-to-month, suggesting incident-driven spikes
+- Ticket volume fluctuates month-to-month, suggesting incident-driven spikes
 
 ## Tools Used
 - Google Sheets
