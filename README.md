@@ -13,10 +13,12 @@ A Google Sheets dashboard analysing 6 months of mock IT support ticket data to i
 Download the dashboard here: IT_Support_Ticket_Dashboard.pdf
 
 ## Key Insights (example)
-- Printer issues are a major driver of tickets
-- Monday is the busiest day
-- Peak support hours are 9–11am
-- Some categories take longer to resolve than others
+- Software installation is the most frequent support issue
+- Peak support demand occurs mid-week and around 4 PM
+- Admin and English departments generate the most tickets
+- Some issue types consistently take longer to resolve
+
+Ticket volume fluctuates month-to-month, suggesting incident-driven spikes
 
 ## Tools Used
 - Google Sheets
